@@ -18,7 +18,7 @@ This is a simple to use Generator which is written in Python to get a custom amo
    
    2.4) After it's done, it is going to save the complete Result in an Text File
    
-![Instructions](https://github.com/deinstallation/random-string-generator/blob/main/instructions.png)
+![Instructions](https://github.com/deinstallation/random-string-generator/blob/main/imgs/instructions.png)
    
 ## Common Errors and Fixes
        
